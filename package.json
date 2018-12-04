@@ -49,15 +49,15 @@
     "msgpack5": "^3.3.0"
   },
   "devDependencies": {
-    "browserify": "^11.1.0",
+    "browserify": "^16.2.3",
     "chai": "^2.2.0",
-    "coveralls": "^2.11.2",
+    "coveralls": "^3.0.2",
     "faker": "^2.1.2",
     "istanbul": "^0.3.13",
     "jsdoc": "^3.4.0",
-    "jshint": "2.8.0",
+    "jshint": "2.9.6",
     "minami": "^1.1.1",
-    "mocha": "^2.2.4",
+    "mocha": "^5.2.0",
     "proxyquire": "^1.7.3",
     "sinon": "^1.14.1"
   }
